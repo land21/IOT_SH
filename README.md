@@ -18,13 +18,16 @@ Rangkaian komponen di WOKWI dinyalakan dan mengirimkan data berupa SUHU yang di 
 </p><br>
 
 <h1>Tampilan Komponen</h1>
+<p>
 <img src="https://github.com/land21/IOT_SH/assets/69804370/4c9506aa-892d-43a1-af5a-4a11e25be14a" align="left" width="500px">
+</p>
 <br>
 <br>
 
 <h1>Broker</h1>
-<P>Broker : https://sh001.cloud.shiftr.io/</P>
+<P>Broker : https://sh001.cloud.shiftr.io/<br>
 <img src="https://github.com/land21/IOT_SH/assets/69804370/f594f0f7-e39a-4434-9a25-5f589d286bbd" align="left" width="500px">
+</p>
 <br>
 <br>
 
