@@ -32,13 +32,13 @@ Rangkaian komponen di WOKWI dinyalakan dan mengirimkan data berupa SUHU yang di 
 <h1>Mobile App</h1>
 <P>
 - <b>Home</b><br>
-  <img src="https://github.com/land21/UAS_IOT_SH/assets/69804370/5ba9d4ea-9acf-41b1-a7e9-5fdc15714f54" height="500px"><br>
+  <img src="https://github.com/land21/UAS_IOT_SH/assets/69804370/5ba9d4ea-9acf-41b1-a7e9-5fdc15714f54" height="500px"><br><br>
 - <b>Bedroom</b><br>
-  <img src="https://github.com/land21/UAS_IOT_SH/assets/69804370/60debd71-197f-44f4-bf03-f8ea6f7433dc" height="500px"><br>
+  <img src="https://github.com/land21/UAS_IOT_SH/assets/69804370/60debd71-197f-44f4-bf03-f8ea6f7433dc" height="500px"><br><br>
 - <b>Bathroom</b><br>
-  <img src="https://github.com/land21/UAS_IOT_SH/assets/69804370/de5a9fc3-8a26-4aa2-bd66-9694d764338e" height="500px"><br>
+  <img src="https://github.com/land21/UAS_IOT_SH/assets/69804370/de5a9fc3-8a26-4aa2-bd66-9694d764338e" height="500px"><br><br>
 - <b>Livingroom</b><br>
-  <img src="https://github.com/land21/UAS_IOT_SH/assets/69804370/a96b0a48-f4ac-44da-8452-64e2f08697e4" height="500px"><br>
+  <img src="https://github.com/land21/UAS_IOT_SH/assets/69804370/a96b0a48-f4ac-44da-8452-64e2f08697e4" height="500px"><br><br>
 - <b>Kitchen</b><br>
   <img src="https://github.com/land21/UAS_IOT_SH/assets/69804370/5df5e333-0937-4808-be74-bdcff73ec349" height="500px">
 </p>
@@ -47,11 +47,11 @@ Rangkaian komponen di WOKWI dinyalakan dan mengirimkan data berupa SUHU yang di 
 <h1>Website</h1>
 <P>
 - <b>Bedroom</b><br>
-  <img src="https://github.com/land21/UAS_IOT_SH/assets/69804370/d0a4f24e-23d4-40a0-8863-0312cfaf9c73" width="500px"><br>
+  <img src="https://github.com/land21/UAS_IOT_SH/assets/69804370/d0a4f24e-23d4-40a0-8863-0312cfaf9c73" width="500px"><br><br>
 - <b>Bathroom</b><br>
-  <img src="https://github.com/land21/UAS_IOT_SH/assets/69804370/397259c4-d325-4ef0-9f67-ab3ebe27ca83" width="500px"><br>
+  <img src="https://github.com/land21/UAS_IOT_SH/assets/69804370/397259c4-d325-4ef0-9f67-ab3ebe27ca83" width="500px"><br><br>
 - <b>Livingroom</b><br>
-  <img src="https://github.com/land21/UAS_IOT_SH/assets/69804370/8a90afdb-3374-4999-a0a7-b73470cf4ea2" width="500px"><br>
+  <img src="https://github.com/land21/UAS_IOT_SH/assets/69804370/8a90afdb-3374-4999-a0a7-b73470cf4ea2" width="500px"><br><br>
 - <b>Kitchen</b><br>
   <img src="https://github.com/land21/UAS_IOT_SH/assets/69804370/72f51bfe-00ac-4ee3-aaf7-32e5bf392c6e" width="500px">
 </p>
@@ -59,7 +59,7 @@ Rangkaian komponen di WOKWI dinyalakan dan mengirimkan data berupa SUHU yang di 
 
 <h1>Link Website</h1>
 <p>
-Silahkan Kunjungi Website Kami :
-<a href="http://myiot.rf.gd/">MyIOT (Via Epizy)</a>
+Silahkan Kunjungi Website Kami :<br>
+<a href="http://myiot.rf.gd/">MyIOT (Via Epizy)</a><br>
 <a href="https://iotsh1.000webhostapp.com/">MyIOT (Via 000webhost)</a>
 </p>
