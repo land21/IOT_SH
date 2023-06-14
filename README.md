@@ -7,7 +7,7 @@ Anggota Kelompok:
 - 2009106039 Mira Sartika Lengkong <br><br><br>
 
 <img src="https://github.com/land21/IOT_SH/assets/69804370/59d65f46-dcb0-49b9-93dc-b8715aba2831" align="left" height="50px">
-<h1>MyIOT</h1>
+MyIOT
 
 <br><h1><b>Deskripsi</b></h1>
 <p>MyIOT merupakan projek IOT (Internet of things) yang mengimplementasikan MQTT (Message Queuing Telemetry Transport) menggunakan Wokwi sebagai simulator online elektronika, shiftr.io sebagai broker, Kodular sebagai mobile app maker dan Website (Epizy & 000webhost) untuk nenampilkan pesan dari publisher. Sistem ini dapat menampilkan pesan yang dikirimkan oleh publisher (Wokwi dan Kodular) dalam sebuah website dan mobile app serta dapat menyimpan pesan tersebut dalam database. </p> <br>
