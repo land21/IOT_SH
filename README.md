@@ -32,15 +32,15 @@ Rangkaian komponen di WOKWI dinyalakan dan mengirimkan data berupa SUHU yang di 
 <h1>Mobile App</h1>
 <P>
 - <b>Home</b><br>
-  <img src="https://github.com/land21/UAS_IOT_SH/assets/69804370/5ba9d4ea-9acf-41b1-a7e9-5fdc15714f54" heigth="500px"><br>
+  <img src="https://github.com/land21/UAS_IOT_SH/assets/69804370/5ba9d4ea-9acf-41b1-a7e9-5fdc15714f54" height="500px"><br>
 - <b>Bedroom</b><br>
-  <img src="https://github.com/land21/UAS_IOT_SH/assets/69804370/60debd71-197f-44f4-bf03-f8ea6f7433dc" heigth="500px"><br>
+  <img src="https://github.com/land21/UAS_IOT_SH/assets/69804370/60debd71-197f-44f4-bf03-f8ea6f7433dc" height="500px"><br>
 - <b>Bathroom</b><br>
-  <img src="https://github.com/land21/UAS_IOT_SH/assets/69804370/de5a9fc3-8a26-4aa2-bd66-9694d764338e" heigth="500px"><br>
+  <img src="https://github.com/land21/UAS_IOT_SH/assets/69804370/de5a9fc3-8a26-4aa2-bd66-9694d764338e" height="500px"><br>
 - <b>Livingroom</b><br>
-  <img src="https://github.com/land21/UAS_IOT_SH/assets/69804370/a96b0a48-f4ac-44da-8452-64e2f08697e4" heigth="500px"><br>
+  <img src="https://github.com/land21/UAS_IOT_SH/assets/69804370/a96b0a48-f4ac-44da-8452-64e2f08697e4" height="500px"><br>
 - <b>Kitchen</b><br>
-  <img src="https://github.com/land21/UAS_IOT_SH/assets/69804370/5df5e333-0937-4808-be74-bdcff73ec349" heigth="500px">
+  <img src="https://github.com/land21/UAS_IOT_SH/assets/69804370/5df5e333-0937-4808-be74-bdcff73ec349" height="500px">
 </p>
 <br>
 
